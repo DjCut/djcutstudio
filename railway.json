@@ -1,0 +1,11 @@
+{
+    "build": {
+        "scripts": [
+            "pip install -r requirements.txt"
+        ],
+        "env": {
+            "PYTHONUNBUFFERED": "1"
+        }
+    },
+    "start": "python main.py"
+}
