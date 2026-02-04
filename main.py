@@ -78,7 +78,7 @@ def legendarydragon_page():
                 'text-lg text-center mt-6 text-[#3b2f2f]'
             )
 
-        # YOUTUBE # tfPUVnZy-Cg
+        # YOUTUBE
         ui.html('''
         <div style="
             width: 50vw;
@@ -88,7 +88,7 @@ def legendarydragon_page():
             aspect-ratio: 16/9;
         ">
             <iframe
-                src="https://www.youtube.com/embed/tfPUVnZy-Cg"
+                src="https://www.youtube.com/embed/DOoi-Gt-0rE"
                 title="YouTube video player"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
