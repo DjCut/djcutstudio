@@ -110,4 +110,4 @@ def legendarydragon_page():
 
     footer()
 
-ui.run()
+ui.run(host="0.0.0.0", port=8080, forwarded_allow_ips="*", favicon="./static/favicon.ico", title='DjCut Studio')
