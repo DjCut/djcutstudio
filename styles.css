@@ -116,3 +116,18 @@ footer a {
 .email {
     opacity: 0.8;
 }
+
+.insta-button {
+    background: linear-gradient(45deg, #f58529, #dd2a7b, #8134af, #515bd4);
+    color: white;
+    padding: 0.6rem 1.2rem;
+    border-radius: 999px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-top: 1rem;
+    display: inline-block;
+}
+
+.insta-button:hover {
+    opacity: 0.9;
+}
